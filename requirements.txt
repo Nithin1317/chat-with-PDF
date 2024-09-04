@@ -1,6 +1,6 @@
 pypdf
 langchain
 docarray 
-pydantic == 1.10.8
+pydantic
 langchain-community
 langchain-core
